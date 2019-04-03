@@ -1,4 +1,7 @@
-﻿using System;
+//David Laughton
+//April 4th 2019
+//Waterloo comuter problems
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
